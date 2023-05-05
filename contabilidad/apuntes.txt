@@ -1,0 +1,3 @@
+salmón = f3a369
+azul = 43a2ec
+gris = 8b8b8b

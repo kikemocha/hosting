@@ -1,0 +1,75 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
+.main{
+    padding: 20px;
+    text-align: center;
+    
+}
+.main div{
+    margin: 20px 0px;
+}
+.main form{
+    padding-top: 20px;
+    width: 60%;
+    margin: auto;
+}
+.main form div{
+    margin: 30px 0px;
+}
+#logo{
+    margin-left: 30px;
+    margin-right: 0px;
+    background-color: white;
+    border-radius: 90px;
+    width: 64px;
+    height: auto;
+}
+nav{
+    height: 100px;
+    margin: 0px 10%;
+}
+.navbar-dark{
+    padding: 10px;
+}
+.navbar-brand {
+    margin-left: 2em;
+    margin-right: 0px;
+}
+.navbar-collapse{
+    display: flex;
+    justify-items: center;
+    padding-left: 8em;
+}
+.nav-item{
+    margin: 0px 1em;
+}
+.texto_body{
+    padding: 20px 10px;
+}
+.texto_body p{
+    margin: 40px 30px;
+}
+.texto_body_contacto{
+    padding: 20px 10px;
+}
+.texto_body_contacto p{
+    margin: 7px 0px;
+}
+.texto_body .area_ul{
+    text-align: left;
+    margin: 0% 20%;
+    font-size: 15px;
+}
+.texto_body .area_ul li{
+    font-weight: bold;
+    margin-top: 15px;
+}
+.texto_body .area_ul p{
+    color: gray;
+    margin: 0px;
+}
+
+.text-center h1{
+    font-size: 25px;
+}
